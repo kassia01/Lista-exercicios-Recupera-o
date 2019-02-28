@@ -1,0 +1,9 @@
+c:\users\usuário\documents\visual studio 2015\Projects\GastoEmRestaurante\GastoEmRestaurante\bin\Debug\GastoEmRestaurante.exe.config
+c:\users\usuário\documents\visual studio 2015\Projects\GastoEmRestaurante\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.csprojResolveAssemblyReference.cache
+c:\users\usuário\documents\visual studio 2015\Projects\GastoEmRestaurante\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.Form1.resources
+c:\users\usuário\documents\visual studio 2015\Projects\GastoEmRestaurante\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.Properties.Resources.resources
+c:\users\usuário\documents\visual studio 2015\Projects\GastoEmRestaurante\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.csproj.GenerateResource.Cache
+c:\users\usuário\documents\visual studio 2015\Projects\GastoEmRestaurante\GastoEmRestaurante\bin\Debug\GastoEmRestaurante.exe
+c:\users\usuário\documents\visual studio 2015\Projects\GastoEmRestaurante\GastoEmRestaurante\bin\Debug\GastoEmRestaurante.pdb
+c:\users\usuário\documents\visual studio 2015\Projects\GastoEmRestaurante\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.exe
+c:\users\usuário\documents\visual studio 2015\Projects\GastoEmRestaurante\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.pdb

@@ -1,0 +1,8 @@
+c:\users\administrador\documents\visual studio 2015\Projects\CalculoDoQuadrado\CalculoDoQuadrado\bin\Debug\CalculoDoQuadrado.exe.config
+c:\users\administrador\documents\visual studio 2015\Projects\CalculoDoQuadrado\CalculoDoQuadrado\bin\Debug\CalculoDoQuadrado.exe
+c:\users\administrador\documents\visual studio 2015\Projects\CalculoDoQuadrado\CalculoDoQuadrado\bin\Debug\CalculoDoQuadrado.pdb
+c:\users\administrador\documents\visual studio 2015\Projects\CalculoDoQuadrado\CalculoDoQuadrado\obj\Debug\CalculoDoQuadrado.Form1.resources
+c:\users\administrador\documents\visual studio 2015\Projects\CalculoDoQuadrado\CalculoDoQuadrado\obj\Debug\CalculoDoQuadrado.Properties.Resources.resources
+c:\users\administrador\documents\visual studio 2015\Projects\CalculoDoQuadrado\CalculoDoQuadrado\obj\Debug\CalculoDoQuadrado.csproj.GenerateResource.Cache
+c:\users\administrador\documents\visual studio 2015\Projects\CalculoDoQuadrado\CalculoDoQuadrado\obj\Debug\CalculoDoQuadrado.exe
+c:\users\administrador\documents\visual studio 2015\Projects\CalculoDoQuadrado\CalculoDoQuadrado\obj\Debug\CalculoDoQuadrado.pdb

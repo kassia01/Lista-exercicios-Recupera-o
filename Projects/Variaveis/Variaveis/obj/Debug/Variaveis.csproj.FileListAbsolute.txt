@@ -1,0 +1,6 @@
+c:\users\usuário\documents\visual studio 2015\Projects\Variaveis\Variaveis\bin\Debug\Variaveis.exe.config
+c:\users\usuário\documents\visual studio 2015\Projects\Variaveis\Variaveis\bin\Debug\Variaveis.exe
+c:\users\usuário\documents\visual studio 2015\Projects\Variaveis\Variaveis\bin\Debug\Variaveis.pdb
+c:\users\usuário\documents\visual studio 2015\Projects\Variaveis\Variaveis\obj\Debug\Variaveis.csprojResolveAssemblyReference.cache
+c:\users\usuário\documents\visual studio 2015\Projects\Variaveis\Variaveis\obj\Debug\Variaveis.exe
+c:\users\usuário\documents\visual studio 2015\Projects\Variaveis\Variaveis\obj\Debug\Variaveis.pdb

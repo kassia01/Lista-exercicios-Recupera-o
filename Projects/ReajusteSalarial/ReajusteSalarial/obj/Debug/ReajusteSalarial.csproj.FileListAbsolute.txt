@@ -1,0 +1,9 @@
+c:\users\administrador\documents\visual studio 2015\Projects\ReajusteSalarial\ReajusteSalarial\bin\Debug\ReajusteSalarial.exe.config
+c:\users\administrador\documents\visual studio 2015\Projects\ReajusteSalarial\ReajusteSalarial\obj\Debug\ReajusteSalarial.csprojResolveAssemblyReference.cache
+c:\users\administrador\documents\visual studio 2015\Projects\ReajusteSalarial\ReajusteSalarial\obj\Debug\ReajusteSalarial.Form1.resources
+c:\users\administrador\documents\visual studio 2015\Projects\ReajusteSalarial\ReajusteSalarial\obj\Debug\ReajusteSalarial.Properties.Resources.resources
+c:\users\administrador\documents\visual studio 2015\Projects\ReajusteSalarial\ReajusteSalarial\obj\Debug\ReajusteSalarial.csproj.GenerateResource.Cache
+c:\users\administrador\documents\visual studio 2015\Projects\ReajusteSalarial\ReajusteSalarial\bin\Debug\ReajusteSalarial.exe
+c:\users\administrador\documents\visual studio 2015\Projects\ReajusteSalarial\ReajusteSalarial\bin\Debug\ReajusteSalarial.pdb
+c:\users\administrador\documents\visual studio 2015\Projects\ReajusteSalarial\ReajusteSalarial\obj\Debug\ReajusteSalarial.exe
+c:\users\administrador\documents\visual studio 2015\Projects\ReajusteSalarial\ReajusteSalarial\obj\Debug\ReajusteSalarial.pdb

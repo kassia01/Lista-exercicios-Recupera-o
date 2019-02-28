@@ -1,0 +1,17 @@
+c:\users\administrador\documents\visual studio 2015\Projects\Exercicios\Exercicios\bin\Debug\Exercicios.exe.config
+c:\users\administrador\documents\visual studio 2015\Projects\Exercicios\Exercicios\bin\Debug\Exercicios.exe
+c:\users\administrador\documents\visual studio 2015\Projects\Exercicios\Exercicios\bin\Debug\Exercicios.pdb
+c:\users\administrador\documents\visual studio 2015\Projects\Exercicios\Exercicios\obj\Debug\Exercicios.csprojResolveAssemblyReference.cache
+c:\users\administrador\documents\visual studio 2015\Projects\Exercicios\Exercicios\obj\Debug\Exercicios.Form1.resources
+c:\users\administrador\documents\visual studio 2015\Projects\Exercicios\Exercicios\obj\Debug\Exercicios.Form2.resources
+c:\users\administrador\documents\visual studio 2015\Projects\Exercicios\Exercicios\obj\Debug\Exercicios.Properties.Resources.resources
+c:\users\administrador\documents\visual studio 2015\Projects\Exercicios\Exercicios\obj\Debug\Exercicios.csproj.GenerateResource.Cache
+c:\users\administrador\documents\visual studio 2015\Projects\Exercicios\Exercicios\obj\Debug\Exercicios.exe
+c:\users\administrador\documents\visual studio 2015\Projects\Exercicios\Exercicios\obj\Debug\Exercicios.pdb
+c:\users\administrador\documents\visual studio 2015\Projects\Exercicios\Exercicios\obj\Debug\Exercicios.Form3.resources
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Exercicios\Exercicios\obj\Debug\Exercicios.Form4.resources
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Exercicios\Exercicios\obj\Debug\Exercicios.Form5.resources
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Exercicios\Exercicios\obj\Debug\Exercicios.Form6.resources
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Exercicios\Exercicios\obj\Debug\Exercicios.Form7.resources
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Exercicios\Exercicios\obj\Debug\Exercicios.Form8.resources
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Exercicios\Exercicios\obj\Debug\Exercicios.Form9.resources

@@ -1,0 +1,10 @@
+c:\users\aluno\source\repos\Oimundo\Oimundo\bin\Debug\Oimundo.exe.config
+c:\users\aluno\source\repos\Oimundo\Oimundo\bin\Debug\Oimundo.exe
+c:\users\aluno\source\repos\Oimundo\Oimundo\bin\Debug\Oimundo.pdb
+c:\users\aluno\source\repos\Oimundo\Oimundo\obj\Debug\Oimundo.csprojAssemblyReference.cache
+c:\users\aluno\source\repos\Oimundo\Oimundo\obj\Debug\Oimundo.Properties.Resources.resources
+c:\users\aluno\source\repos\Oimundo\Oimundo\obj\Debug\Oimundo.csproj.GenerateResource.cache
+c:\users\aluno\source\repos\Oimundo\Oimundo\obj\Debug\Oimundo.csproj.CoreCompileInputs.cache
+c:\users\aluno\source\repos\Oimundo\Oimundo\obj\Debug\Oimundo.exe
+c:\users\aluno\source\repos\Oimundo\Oimundo\obj\Debug\Oimundo.pdb
+c:\users\aluno\source\repos\Oimundo\Oimundo\obj\Debug\Oimundo.Form1.resources

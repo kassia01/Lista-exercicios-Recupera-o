@@ -1,0 +1,5 @@
+c:\users\usuário\documents\visual studio 2015\Projects\lista3.8\lista3.8\bin\Debug\lista3.8.exe.config
+c:\users\usuário\documents\visual studio 2015\Projects\lista3.8\lista3.8\bin\Debug\lista3.8.exe
+c:\users\usuário\documents\visual studio 2015\Projects\lista3.8\lista3.8\bin\Debug\lista3.8.pdb
+c:\users\usuário\documents\visual studio 2015\Projects\lista3.8\lista3.8\obj\Debug\lista3.8.exe
+c:\users\usuário\documents\visual studio 2015\Projects\lista3.8\lista3.8\obj\Debug\lista3.8.pdb

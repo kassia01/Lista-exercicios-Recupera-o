@@ -1,0 +1,9 @@
+c:\users\administrador\documents\visual studio 2015\Projects\CalculoComAsQuatrosOperacoes\CalculoComAsQuatrosOperacoes\bin\Debug\CalculoComAsQuatrosOperacoes.exe.config
+c:\users\administrador\documents\visual studio 2015\Projects\CalculoComAsQuatrosOperacoes\CalculoComAsQuatrosOperacoes\bin\Debug\CalculoComAsQuatrosOperacoes.exe
+c:\users\administrador\documents\visual studio 2015\Projects\CalculoComAsQuatrosOperacoes\CalculoComAsQuatrosOperacoes\bin\Debug\CalculoComAsQuatrosOperacoes.pdb
+c:\users\administrador\documents\visual studio 2015\Projects\CalculoComAsQuatrosOperacoes\CalculoComAsQuatrosOperacoes\obj\Debug\CalculoComAsQuatrosOperacoes.csprojResolveAssemblyReference.cache
+c:\users\administrador\documents\visual studio 2015\Projects\CalculoComAsQuatrosOperacoes\CalculoComAsQuatrosOperacoes\obj\Debug\CalculoComAsQuatrosOperacoes.Form1.resources
+c:\users\administrador\documents\visual studio 2015\Projects\CalculoComAsQuatrosOperacoes\CalculoComAsQuatrosOperacoes\obj\Debug\CalculoComAsQuatrosOperacoes.Properties.Resources.resources
+c:\users\administrador\documents\visual studio 2015\Projects\CalculoComAsQuatrosOperacoes\CalculoComAsQuatrosOperacoes\obj\Debug\CalculoComAsQuatrosOperacoes.csproj.GenerateResource.Cache
+c:\users\administrador\documents\visual studio 2015\Projects\CalculoComAsQuatrosOperacoes\CalculoComAsQuatrosOperacoes\obj\Debug\CalculoComAsQuatrosOperacoes.exe
+c:\users\administrador\documents\visual studio 2015\Projects\CalculoComAsQuatrosOperacoes\CalculoComAsQuatrosOperacoes\obj\Debug\CalculoComAsQuatrosOperacoes.pdb

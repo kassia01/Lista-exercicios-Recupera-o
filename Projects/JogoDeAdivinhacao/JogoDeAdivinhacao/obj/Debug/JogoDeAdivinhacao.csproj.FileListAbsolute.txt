@@ -1,0 +1,19 @@
+C:\Users\aluno\source\repos\JogoDeAdivinhacao\JogoDeAdivinhacao\obj\Debug\JogoDeAdivinhacao.csprojAssemblyReference.cache
+C:\Users\aluno\source\repos\JogoDeAdivinhacao\JogoDeAdivinhacao\obj\Debug\JogoDeAdivinhacao.Form1.resources
+C:\Users\aluno\source\repos\JogoDeAdivinhacao\JogoDeAdivinhacao\obj\Debug\JogoDeAdivinhacao.Properties.Resources.resources
+C:\Users\aluno\source\repos\JogoDeAdivinhacao\JogoDeAdivinhacao\obj\Debug\JogoDeAdivinhacao.csproj.GenerateResource.cache
+C:\Users\aluno\source\repos\JogoDeAdivinhacao\JogoDeAdivinhacao\obj\Debug\JogoDeAdivinhacao.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\JogoDeAdivinhacao\JogoDeAdivinhacao\bin\Debug\JogoDeAdivinhacao.exe.config
+C:\Users\aluno\source\repos\JogoDeAdivinhacao\JogoDeAdivinhacao\bin\Debug\JogoDeAdivinhacao.exe
+C:\Users\aluno\source\repos\JogoDeAdivinhacao\JogoDeAdivinhacao\bin\Debug\JogoDeAdivinhacao.pdb
+C:\Users\aluno\source\repos\JogoDeAdivinhacao\JogoDeAdivinhacao\obj\Debug\JogoDeAdivinhacao.exe
+C:\Users\aluno\source\repos\JogoDeAdivinhacao\JogoDeAdivinhacao\obj\Debug\JogoDeAdivinhacao.pdb
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\JogoDeAdivinhacao\JogoDeAdivinhacao\bin\Debug\JogoDeAdivinhacao.exe.config
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\JogoDeAdivinhacao\JogoDeAdivinhacao\obj\Debug\JogoDeAdivinhacao.exe
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\JogoDeAdivinhacao\JogoDeAdivinhacao\obj\Debug\JogoDeAdivinhacao.pdb
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\JogoDeAdivinhacao\JogoDeAdivinhacao\bin\Debug\JogoDeAdivinhacao.exe
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\JogoDeAdivinhacao\JogoDeAdivinhacao\bin\Debug\JogoDeAdivinhacao.pdb
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\JogoDeAdivinhacao\JogoDeAdivinhacao\obj\Debug\JogoDeAdivinhacao.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\JogoDeAdivinhacao\JogoDeAdivinhacao\obj\Debug\JogoDeAdivinhacao.Form1.resources
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\JogoDeAdivinhacao\JogoDeAdivinhacao\obj\Debug\JogoDeAdivinhacao.Properties.Resources.resources
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\JogoDeAdivinhacao\JogoDeAdivinhacao\obj\Debug\JogoDeAdivinhacao.csproj.GenerateResource.Cache

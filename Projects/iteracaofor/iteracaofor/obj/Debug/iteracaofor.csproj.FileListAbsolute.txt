@@ -1,0 +1,6 @@
+c:\users\usuário\documents\visual studio 2015\Projects\iteracaofor\iteracaofor\bin\Debug\iteracaofor.exe.config
+c:\users\usuário\documents\visual studio 2015\Projects\iteracaofor\iteracaofor\obj\Debug\iteracaofor.csprojResolveAssemblyReference.cache
+c:\users\usuário\documents\visual studio 2015\Projects\iteracaofor\iteracaofor\bin\Debug\iteracaofor.exe
+c:\users\usuário\documents\visual studio 2015\Projects\iteracaofor\iteracaofor\bin\Debug\iteracaofor.pdb
+c:\users\usuário\documents\visual studio 2015\Projects\iteracaofor\iteracaofor\obj\Debug\iteracaofor.exe
+c:\users\usuário\documents\visual studio 2015\Projects\iteracaofor\iteracaofor\obj\Debug\iteracaofor.pdb

@@ -1,0 +1,8 @@
+c:\users\administrador\documents\visual studio 2015\Projects\AntecessorSucessor\AntecessorSucessor\bin\Debug\AntecessorSucessor.exe.config
+c:\users\administrador\documents\visual studio 2015\Projects\AntecessorSucessor\AntecessorSucessor\bin\Debug\AntecessorSucessor.exe
+c:\users\administrador\documents\visual studio 2015\Projects\AntecessorSucessor\AntecessorSucessor\bin\Debug\AntecessorSucessor.pdb
+c:\users\administrador\documents\visual studio 2015\Projects\AntecessorSucessor\AntecessorSucessor\obj\Debug\AntecessorSucessor.Form1.resources
+c:\users\administrador\documents\visual studio 2015\Projects\AntecessorSucessor\AntecessorSucessor\obj\Debug\AntecessorSucessor.Properties.Resources.resources
+c:\users\administrador\documents\visual studio 2015\Projects\AntecessorSucessor\AntecessorSucessor\obj\Debug\AntecessorSucessor.csproj.GenerateResource.Cache
+c:\users\administrador\documents\visual studio 2015\Projects\AntecessorSucessor\AntecessorSucessor\obj\Debug\AntecessorSucessor.exe
+c:\users\administrador\documents\visual studio 2015\Projects\AntecessorSucessor\AntecessorSucessor\obj\Debug\AntecessorSucessor.pdb

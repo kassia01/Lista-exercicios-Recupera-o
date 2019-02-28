@@ -1,0 +1,6 @@
+c:\users\usuário\documents\visual studio 2015\Projects\ComoEntenderAsMatrizes\ComoEntenderAsMatrizes\bin\Debug\ComoEntenderAsMatrizes.exe.config
+c:\users\usuário\documents\visual studio 2015\Projects\ComoEntenderAsMatrizes\ComoEntenderAsMatrizes\obj\Debug\ComoEntenderAsMatrizes.csprojResolveAssemblyReference.cache
+c:\users\usuário\documents\visual studio 2015\Projects\ComoEntenderAsMatrizes\ComoEntenderAsMatrizes\bin\Debug\ComoEntenderAsMatrizes.exe
+c:\users\usuário\documents\visual studio 2015\Projects\ComoEntenderAsMatrizes\ComoEntenderAsMatrizes\bin\Debug\ComoEntenderAsMatrizes.pdb
+c:\users\usuário\documents\visual studio 2015\Projects\ComoEntenderAsMatrizes\ComoEntenderAsMatrizes\obj\Debug\ComoEntenderAsMatrizes.exe
+c:\users\usuário\documents\visual studio 2015\Projects\ComoEntenderAsMatrizes\ComoEntenderAsMatrizes\obj\Debug\ComoEntenderAsMatrizes.pdb

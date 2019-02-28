@@ -1,0 +1,9 @@
+c:\users\administrador\documents\visual studio 2015\Projects\PesoIdeal\PesoIdeal\bin\Debug\PesoIdeal.exe.config
+c:\users\administrador\documents\visual studio 2015\Projects\PesoIdeal\PesoIdeal\obj\Debug\PesoIdeal.csprojResolveAssemblyReference.cache
+c:\users\administrador\documents\visual studio 2015\Projects\PesoIdeal\PesoIdeal\obj\Debug\PesoIdeal.Form1.resources
+c:\users\administrador\documents\visual studio 2015\Projects\PesoIdeal\PesoIdeal\obj\Debug\PesoIdeal.Properties.Resources.resources
+c:\users\administrador\documents\visual studio 2015\Projects\PesoIdeal\PesoIdeal\obj\Debug\PesoIdeal.csproj.GenerateResource.Cache
+c:\users\administrador\documents\visual studio 2015\Projects\PesoIdeal\PesoIdeal\bin\Debug\PesoIdeal.exe
+c:\users\administrador\documents\visual studio 2015\Projects\PesoIdeal\PesoIdeal\bin\Debug\PesoIdeal.pdb
+c:\users\administrador\documents\visual studio 2015\Projects\PesoIdeal\PesoIdeal\obj\Debug\PesoIdeal.exe
+c:\users\administrador\documents\visual studio 2015\Projects\PesoIdeal\PesoIdeal\obj\Debug\PesoIdeal.pdb

@@ -1,0 +1,9 @@
+c:\users\administrador\documents\visual studio 2015\Projects\QuadradoDaDiferença\QuadradoDaDiferença\bin\Debug\QuadradoDaDiferença.exe.config
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\QuadradoDaDiferença\QuadradoDaDiferença\bin\Debug\QuadradoDaDiferença.exe
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\QuadradoDaDiferença\QuadradoDaDiferença\bin\Debug\QuadradoDaDiferença.pdb
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\QuadradoDaDiferença\QuadradoDaDiferença\obj\Debug\QuadradoDaDiferença.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\QuadradoDaDiferença\QuadradoDaDiferença\obj\Debug\QuadradoDaDiferença.Form1.resources
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\QuadradoDaDiferença\QuadradoDaDiferença\obj\Debug\QuadradoDaDiferença.Properties.Resources.resources
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\QuadradoDaDiferença\QuadradoDaDiferença\obj\Debug\QuadradoDaDiferença.csproj.GenerateResource.Cache
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\QuadradoDaDiferença\QuadradoDaDiferença\obj\Debug\QuadradoDaDiferença.exe
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\QuadradoDaDiferença\QuadradoDaDiferença\obj\Debug\QuadradoDaDiferença.pdb

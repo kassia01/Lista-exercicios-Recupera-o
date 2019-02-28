@@ -1,0 +1,5 @@
+c:\users\usuário\documents\visual studio 2015\Projects\lista3.17\lista3.17\bin\Debug\lista3.17.exe.config
+c:\users\usuário\documents\visual studio 2015\Projects\lista3.17\lista3.17\bin\Debug\lista3.17.exe
+c:\users\usuário\documents\visual studio 2015\Projects\lista3.17\lista3.17\bin\Debug\lista3.17.pdb
+c:\users\usuário\documents\visual studio 2015\Projects\lista3.17\lista3.17\obj\Debug\lista3.17.exe
+c:\users\usuário\documents\visual studio 2015\Projects\lista3.17\lista3.17\obj\Debug\lista3.17.pdb

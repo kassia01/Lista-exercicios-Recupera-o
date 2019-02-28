@@ -1,0 +1,9 @@
+c:\users\administrador\documents\visual studio 2015\Projects\PagamentoComissao\PagamentoComissao\bin\Debug\PagamentoComissao.exe.config
+c:\users\administrador\documents\visual studio 2015\Projects\PagamentoComissao\PagamentoComissao\bin\Debug\PagamentoComissao.exe
+c:\users\administrador\documents\visual studio 2015\Projects\PagamentoComissao\PagamentoComissao\bin\Debug\PagamentoComissao.pdb
+c:\users\administrador\documents\visual studio 2015\Projects\PagamentoComissao\PagamentoComissao\obj\Debug\PagamentoComissao.csprojResolveAssemblyReference.cache
+c:\users\administrador\documents\visual studio 2015\Projects\PagamentoComissao\PagamentoComissao\obj\Debug\PagamentoComissao.Form1.resources
+c:\users\administrador\documents\visual studio 2015\Projects\PagamentoComissao\PagamentoComissao\obj\Debug\PagamentoComissao.Properties.Resources.resources
+c:\users\administrador\documents\visual studio 2015\Projects\PagamentoComissao\PagamentoComissao\obj\Debug\PagamentoComissao.csproj.GenerateResource.Cache
+c:\users\administrador\documents\visual studio 2015\Projects\PagamentoComissao\PagamentoComissao\obj\Debug\PagamentoComissao.exe
+c:\users\administrador\documents\visual studio 2015\Projects\PagamentoComissao\PagamentoComissao\obj\Debug\PagamentoComissao.pdb

@@ -1,0 +1,6 @@
+c:\users\usuário\documents\visual studio 2015\Projects\lista2.7\lista2.7\bin\Debug\lista2.7.exe.config
+C:\Users\Usuário\Documents\Visual Studio 2015\Projects\lista2.7\lista2.7\obj\Debug\lista2.7.csprojResolveAssemblyReference.cache
+C:\Users\Usuário\Documents\Visual Studio 2015\Projects\lista2.7\lista2.7\bin\Debug\lista2.7.exe
+C:\Users\Usuário\Documents\Visual Studio 2015\Projects\lista2.7\lista2.7\bin\Debug\lista2.7.pdb
+C:\Users\Usuário\Documents\Visual Studio 2015\Projects\lista2.7\lista2.7\obj\Debug\lista2.7.exe
+C:\Users\Usuário\Documents\Visual Studio 2015\Projects\lista2.7\lista2.7\obj\Debug\lista2.7.pdb

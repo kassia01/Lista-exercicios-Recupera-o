@@ -1,0 +1,9 @@
+c:\users\administrador\documents\visual studio 2015\Projects\ConverterDolarParaReal\ConverterDolarParaReal\bin\Debug\ConverterDolarParaReal.exe.config
+c:\users\administrador\documents\visual studio 2015\Projects\ConverterDolarParaReal\ConverterDolarParaReal\obj\Debug\ConverterDolarParaReal.csprojResolveAssemblyReference.cache
+c:\users\administrador\documents\visual studio 2015\Projects\ConverterDolarParaReal\ConverterDolarParaReal\obj\Debug\ConverterDolarParaReal.Form1.resources
+c:\users\administrador\documents\visual studio 2015\Projects\ConverterDolarParaReal\ConverterDolarParaReal\obj\Debug\ConverterDolarParaReal.Properties.Resources.resources
+c:\users\administrador\documents\visual studio 2015\Projects\ConverterDolarParaReal\ConverterDolarParaReal\obj\Debug\ConverterDolarParaReal.csproj.GenerateResource.Cache
+c:\users\administrador\documents\visual studio 2015\Projects\ConverterDolarParaReal\ConverterDolarParaReal\bin\Debug\ConverterDolarParaReal.exe
+c:\users\administrador\documents\visual studio 2015\Projects\ConverterDolarParaReal\ConverterDolarParaReal\bin\Debug\ConverterDolarParaReal.pdb
+c:\users\administrador\documents\visual studio 2015\Projects\ConverterDolarParaReal\ConverterDolarParaReal\obj\Debug\ConverterDolarParaReal.exe
+c:\users\administrador\documents\visual studio 2015\Projects\ConverterDolarParaReal\ConverterDolarParaReal\obj\Debug\ConverterDolarParaReal.pdb

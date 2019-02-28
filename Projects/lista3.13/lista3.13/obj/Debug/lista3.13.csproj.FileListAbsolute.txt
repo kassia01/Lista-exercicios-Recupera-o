@@ -1,0 +1,5 @@
+c:\users\usuário\documents\visual studio 2015\Projects\lista3.13\lista3.13\bin\Debug\lista3.13.exe.config
+c:\users\usuário\documents\visual studio 2015\Projects\lista3.13\lista3.13\bin\Debug\lista3.13.exe
+c:\users\usuário\documents\visual studio 2015\Projects\lista3.13\lista3.13\bin\Debug\lista3.13.pdb
+c:\users\usuário\documents\visual studio 2015\Projects\lista3.13\lista3.13\obj\Debug\lista3.13.exe
+c:\users\usuário\documents\visual studio 2015\Projects\lista3.13\lista3.13\obj\Debug\lista3.13.pdb

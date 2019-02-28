@@ -1,0 +1,9 @@
+c:\users\administrador\documents\visual studio 2015\Projects\SomaDoQuadrado\SomaDoQuadrado\bin\Debug\SomaDoQuadrado.exe.config
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\SomaDoQuadrado\SomaDoQuadrado\bin\Debug\SomaDoQuadrado.exe
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\SomaDoQuadrado\SomaDoQuadrado\bin\Debug\SomaDoQuadrado.pdb
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\SomaDoQuadrado\SomaDoQuadrado\obj\Debug\SomaDoQuadrado.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\SomaDoQuadrado\SomaDoQuadrado\obj\Debug\SomaDoQuadrado.Form1.resources
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\SomaDoQuadrado\SomaDoQuadrado\obj\Debug\SomaDoQuadrado.Properties.Resources.resources
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\SomaDoQuadrado\SomaDoQuadrado\obj\Debug\SomaDoQuadrado.csproj.GenerateResource.Cache
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\SomaDoQuadrado\SomaDoQuadrado\obj\Debug\SomaDoQuadrado.exe
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\SomaDoQuadrado\SomaDoQuadrado\obj\Debug\SomaDoQuadrado.pdb

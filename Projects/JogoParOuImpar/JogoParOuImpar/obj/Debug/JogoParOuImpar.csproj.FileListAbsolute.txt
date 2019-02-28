@@ -1,0 +1,5 @@
+C:\Users\aluno\source\repos\JogoParOuImpar\JogoParOuImpar\obj\Debug\JogoParOuImpar.csprojAssemblyReference.cache
+C:\Users\aluno\source\repos\JogoParOuImpar\JogoParOuImpar\obj\Debug\JogoParOuImpar.Form1.resources
+C:\Users\aluno\source\repos\JogoParOuImpar\JogoParOuImpar\obj\Debug\JogoParOuImpar.Properties.Resources.resources
+C:\Users\aluno\source\repos\JogoParOuImpar\JogoParOuImpar\obj\Debug\JogoParOuImpar.csproj.GenerateResource.cache
+C:\Users\aluno\source\repos\JogoParOuImpar\JogoParOuImpar\obj\Debug\JogoParOuImpar.csproj.CoreCompileInputs.cache
